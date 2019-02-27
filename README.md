@@ -2,3 +2,4 @@
 1. urllib request
 2. wechat
 3. 获取风控接口数据
+4. sqlalchemy ORM
