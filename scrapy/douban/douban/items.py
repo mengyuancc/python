@@ -17,7 +17,7 @@ class DoubanItem(scrapy.Item):
     # 电影名称
     movie_name = scrapy.Field()
     # 星级
-    start = scrapy.Field()
+    star = scrapy.Field()
     # 电影的介绍
     introduce = scrapy.Field()
     # 评论数
